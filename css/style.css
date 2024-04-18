@@ -25,7 +25,7 @@ padding: 0 160px 80px;
     font-size: 48px;
     padding: 10px 300px 20px;
     color: #C1C242;
-    
+    font-family: jaldi;
 }
 
 .container{
@@ -42,6 +42,7 @@ padding: 0 160px 80px;
 .text{
     padding: 0 0 0 385px;
     font-size: 20px;
+    font-family: jaldi;
 }
 .email{
     align-items: center;
@@ -76,7 +77,6 @@ background-color: #BDBE3E;
 color: black;
 font-size: 20px;
 font-weight: 600;
-border: none;
 }
 .titulo2{
     font-size: 64px;
